@@ -1,4 +1,4 @@
-Cloud Architect | Platform Engineer | Blockchain Enthusiast
+🚀 Cloud Architect | Platform Engineer | Blockchain Enthusiast 🚀
 
 Passionate about building scalable, resilient, and secure cloud-native solutions. With a deep understanding of Kubernetes, cloud orchestration, and platform engineering, I am committed to streamlining infrastructure and application delivery.
 
