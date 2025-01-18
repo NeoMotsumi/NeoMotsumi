@@ -1,6 +1,6 @@
 Cloud Architect | Platform Engineer | Blockchain Enthusiast
 
-Passionate about architecting scalable, resilient, and secure cloud-native solutions. With a deep understanding of Kubernetes, cloud orchestration, and platform engineering, I am committed to streamlining infrastructure and application delivery.
+Passionate about building scalable, resilient, and secure cloud-native solutions. With a deep understanding of Kubernetes, cloud orchestration, and platform engineering, I am committed to streamlining infrastructure and application delivery.
 
 I am proficient in leveraging tools like Crossplane, Melange, and apko to automate infrastructure provisioning and application packaging. Additionally, I am keen on exploring the potential of Hyperledger Fabric to build robust and decentralized applications.
 
